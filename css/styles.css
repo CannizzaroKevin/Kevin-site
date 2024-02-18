@@ -1,0 +1,32 @@
+body {
+    background-color: #eee
+}
+
+.container {
+    width: 100%;
+    margin: auto;
+    background-color: red;
+}
+
+header {
+    position: fixed top;
+    width: 100%;
+    background-color: blueviolet;
+    display: flex;
+
+}
+
+nav {
+    padding: 1.2 0 2 0 ;
+}
+
+nav.header {
+    font-size: larger;
+}
+z
+nav-item {
+    font-size: 1.2rem;
+    border-radius: 5px;
+    margin-right: 5px ;
+
+}
